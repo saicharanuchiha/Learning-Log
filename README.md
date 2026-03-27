@@ -4,6 +4,26 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: March 27, 2026
+
+**📚 Core Learning**
+* **Topic:** Python Fundamentals
+* **Resource:** Practice / Coursework
+* **Key Takeaway:** Officially started learning Python! Mastered basic syntax like `print()` statements, working with variables, and handling user input to build a Band Name Generator project.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** keybr.com
+* **Key Takeaway:** Logged a massive 1-hour focused touch-typing session to build muscle memory and improve WPM.
+
+---
+
+### 🗓️ Dates: March 23 - March 26, 2026
+
+* **Status:** Paused learning to complete the final leg of my historical temple trip (Tirupati) and recover from the travel.
+
+---
+
 ### 🗓️ Date: March 22, 2026
 
 **⌨️ Skill Practice**
@@ -29,7 +49,7 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ### 🗓️ Dates: March 17 - March 20, 2026
 
-* **Status:** Paused learning for a few days to attend a family function and for historical temple travel. Back at it today!
+* **Status:** Paused learning for a few days to attend a family function and for historical temple travel (Arunachalam). Back at it today!
 
 ---
 
