@@ -4,6 +4,20 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: March 28, 2026
+
+**📚 Core Learning**
+* **Topic:** DAX in Power BI
+* **Resource:** Practice
+* **Key Takeaway:** Continued practicing and refining DAX measures to strengthen data modeling and analytical skills.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** keybr.com
+* **Key Takeaway:** Logged a 30-minute focused touch-typing session to maintain consistency and improve WPM.
+
+---
+
 ### 🗓️ Date: March 27, 2026
 
 **📚 Core Learning**
