@@ -4,6 +4,13 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: March 29, 2026
+
+* **Status:** ⏸️ Scheduled Rest & Recovery
+* **Note:** Took a dedicated offline day to transition back from travel and let the recent DAX/Python concepts settle before starting the next study sprint.
+
+---
+
 ### 🗓️ Date: March 28, 2026
 
 **📚 Core Learning**
