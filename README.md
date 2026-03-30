@@ -6,11 +6,12 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ### 🗓️ Date: March 30, 2026
 
-**📚 Core Learning**
+**🐍 Core Learning: Python**
 * **Topic:** Python Fundamentals
 * **Resource:** Practice / Coursework
 * **Key Takeaway:** Completed Day 2 of Python, utilizing mathematical operations and data type conversions to build a functional Bill Splitter project.
 
+**📊 Core Learning: Power BI**
 * **Topic:** DAX in Power BI
 * **Resource:** Practice
 * **Key Takeaway:** Continued diving deeper into DAX, writing and refining measures to strengthen overall data modeling and analysis skills.
