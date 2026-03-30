@@ -4,6 +4,24 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: March 30, 2026
+
+**📚 Core Learning**
+* **Topic:** Python Fundamentals
+* **Resource:** Practice / Coursework
+* **Key Takeaway:** Completed Day 2 of Python, utilizing mathematical operations and data type conversions to build a functional Bill Splitter project.
+
+* **Topic:** DAX in Power BI
+* **Resource:** Practice
+* **Key Takeaway:** Continued diving deeper into DAX, writing and refining measures to strengthen overall data modeling and analysis skills.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** keybr.com
+* **Key Takeaway:** Logged a solid 1-hour focused touch-typing session to continue building muscle memory and improving WPM.
+
+---
+
 ### 🗓️ Date: March 29, 2026
 
 * **Status:** ⏸️ Scheduled Rest & Recovery
