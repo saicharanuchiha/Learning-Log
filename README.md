@@ -4,6 +4,20 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 1, 2026
+
+**🐍 Core Learning: Python**
+* **Topic:** Random Password Generator Project
+* **Resource:** Project Practice
+* **Key Takeaway:** Leveraged `for` loops alongside the `range()` function and the `random` module to iterate through character sets and dynamically construct secure, randomized passwords.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy (30-minute session)
+* **Resource:** Keybr
+* **Key Takeaway:** Maintained daily consistency to build muscle memory and incrementally improve overall keystroke efficiency.
+
+---
+
 ### 🗓️ Date: March 31, 2026
 
 **🐍 Core Learning: Python**
