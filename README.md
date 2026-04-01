@@ -4,6 +4,20 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: March 31, 2026
+
+**🐍 Core Learning: Python**
+* **Topic:** Python Fundamentals
+* **Resource:** Practice / Coursework
+* **Key Takeaway:** Applied conditionals, Python lists, and the `random` module to build interactive projects, including a text-based Treasure Finder and a fully playable Rock, Paper, Scissors game.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** keybr.com
+* **Key Takeaway:** Logged a 30-minute focused touch-typing session to maintain consistency and improve WPM.
+
+---
+
 ### 🗓️ Date: March 30, 2026
 
 **🐍 Core Learning: Python**
