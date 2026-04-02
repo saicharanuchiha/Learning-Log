@@ -4,6 +4,25 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 2, 2026
+
+**🐍 Core Learning: Python**
+* **Topic:** `while` Loops and Algorithmic Logic
+* **Resource:** Reeborg's World Simulator & PyCharm
+* **Key Takeaway:** Successfully escaped the final dynamically generated maze using the "Right Wall Follower" algorithm. Mastered the specific order of operations for `if/elif/else` statements required to prevent infinite loops when handling edge cases.
+
+**📊 Core Learning: Power BI (DAX)**
+* **Topic:** Filter Context & Iterators
+* **Resource:** Project Practice (Order Line Items)
+* **Key Takeaway:** Focused heavily on context transition by pairing `CALCULATE` with `ALL` and `FILTER` to manipulate data views. Explored row context evaluation using iterator functions like `SUMX` (for row-by-row arithmetic) and `RANKX` (for dynamic ranking).
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Key Takeaway:** Maintained daily consistency to build muscle memory and incrementally improve overall keystroke efficiency.
+
+---
+
 ### 🗓️ Date: April 1, 2026
 
 **🐍 Core Learning: Python**
