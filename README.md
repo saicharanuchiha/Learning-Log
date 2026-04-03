@@ -4,6 +4,20 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 3, 2026
+
+**🐍 Core Learning: Python**
+* **Topic:** State Management and Modular Architecture
+* **Resource:** Project Practice (Hangman CLI Game)
+* **Key Takeaway:** Built a fully functional Hangman game. Managed complex game state (tracking lives, previously guessed letters, and dynamic string replacement) using advanced `while` loops. Successfully refactored the code into a professional modular structure, separating the core execution logic (`main.py`) from data and visual assets (`hangman_words.py`, `hangman_art.py`).
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr (45-Minute Session)
+* **Key Takeaway:** Completed an extended 45-minute focus block to deeply ingrain muscle memory, reduce error rates, and improve overall coding speed.
+
+---
+
 ### 🗓️ Date: April 2, 2026
 
 **🐍 Core Learning: Python**
