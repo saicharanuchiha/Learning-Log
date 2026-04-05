@@ -4,6 +4,20 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 5, 2026
+
+**🐍 Core Learning: Python**
+* **Topic:** Functions with Inputs & Modulo Math
+* **Resource:** Project Practice (Caesar Cipher CLI)
+* **Key Takeaway:** Built a unified, parameter-driven function to handle both encryption and decryption. Mastered using modulo arithmetic (`% len(alphabet)`) to dynamically solve the list index "wrapping" problem while preserving non-alphabet characters and maintaining modular project architecture.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy (One hour session)
+* **Resource:** Keybr
+* **Key Takeaway:** Dedicated an extended block to building muscle memory and increasing keystroke efficiency, focusing on maintaining high accuracy during high-volume typing practice.
+
+---
+
 ### 🗓️ Date: April 4, 2026
 
 **⌨️ Skill Practice**
