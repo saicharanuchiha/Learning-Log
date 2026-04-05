@@ -12,8 +12,9 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 * **Key Takeaway:** Built a unified, parameter-driven function to handle both encryption and decryption. Mastered using modulo arithmetic (`% len(alphabet)`) to dynamically solve the list index "wrapping" problem while preserving non-alphabet characters and maintaining modular project architecture.
 
 **⌨️ Skill Practice**
-* **Focus:** Typing Speed & Accuracy (One hour session)
+* **Focus:** Typing Speed & Accuracy
 * **Resource:** Keybr
+* **Duration:** 1 Hour
 * **Key Takeaway:** Dedicated an extended block to building muscle memory and increasing keystroke efficiency, focusing on maintaining high accuracy during high-volume typing practice.
 
 ---
@@ -21,9 +22,10 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 ### 🗓️ Date: April 4, 2026
 
 **⌨️ Skill Practice**
- * **Focus:** Typing Speed & Accuracy
- * **Resource:** Keybr (30-Minute Session)
- * **Key Takeaway:** Maintained daily habit consistency despite a busy schedule, prioritizing muscle memory retention and keystroke efficiency on a non-study day.
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Maintained daily habit consistency despite a busy schedule, prioritizing muscle memory retention and keystroke efficiency on a non-study day.
 
 ---
 
@@ -36,8 +38,9 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 **⌨️ Skill Practice**
 * **Focus:** Typing Speed & Accuracy
-* **Resource:** Keybr (45-Minute Session)
-* **Key Takeaway:** Completed an extended 45-minute focus block to deeply ingrain muscle memory, reduce error rates, and improve overall coding speed.
+* **Resource:** Keybr
+* **Duration:** 45 Minutes
+* **Key Takeaway:** Completed an extended focus block to deeply ingrain muscle memory, reduce error rates, and improve overall coding speed.
 
 ---
 
@@ -68,8 +71,9 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 * **Key Takeaway:** Leveraged `for` loops alongside the `range()` function and the `random` module to iterate through character sets and dynamically construct secure, randomized passwords.
 
 **⌨️ Skill Practice**
-* **Focus:** Typing Speed & Accuracy (30-minute session)
+* **Focus:** Typing Speed & Accuracy
 * **Resource:** Keybr
+* **Duration:** 30 Minutes
 * **Key Takeaway:** Maintained daily consistency to build muscle memory and incrementally improve overall keystroke efficiency.
 
 ---
@@ -83,8 +87,9 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 **⌨️ Skill Practice**
 * **Focus:** Typing Speed & Accuracy
-* **Resource:** keybr.com
-* **Key Takeaway:** Logged a 30-minute focused touch-typing session to maintain consistency and improve WPM.
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Logged a focused touch-typing session to maintain consistency and improve WPM.
 
 ---
 
@@ -102,8 +107,9 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 **⌨️ Skill Practice**
 * **Focus:** Typing Speed & Accuracy
-* **Resource:** keybr.com
-* **Key Takeaway:** Logged a solid 1-hour focused touch-typing session to continue building muscle memory and improving WPM.
+* **Resource:** Keybr
+* **Duration:** 1 Hour
+* **Key Takeaway:** Logged a solid focused touch-typing session to continue building muscle memory and improving WPM.
 
 ---
 
@@ -116,35 +122,38 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ### 🗓️ Date: March 28, 2026
 
-**📚 Core Learning**
+**📊 Core Learning: Power BI**
 * **Topic:** DAX in Power BI
 * **Resource:** Practice
 * **Key Takeaway:** Continued practicing and refining DAX measures to strengthen data modeling and analytical skills.
 
 **⌨️ Skill Practice**
 * **Focus:** Typing Speed & Accuracy
-* **Resource:** keybr.com
-* **Key Takeaway:** Logged a 30-minute focused touch-typing session to maintain consistency and improve WPM.
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Logged a focused touch-typing session to maintain consistency and improve WPM.
 
 ---
 
 ### 🗓️ Date: March 27, 2026
 
-**📚 Core Learning**
+**🐍 Core Learning: Python**
 * **Topic:** Python Fundamentals
 * **Resource:** Practice / Coursework
 * **Key Takeaway:** Officially started learning Python! Mastered basic syntax like `print()` statements, working with variables, and handling user input to build a Band Name Generator project.
 
 **⌨️ Skill Practice**
 * **Focus:** Typing Speed & Accuracy
-* **Resource:** keybr.com
-* **Key Takeaway:** Logged a massive 1-hour focused touch-typing session to build muscle memory and improve WPM.
+* **Resource:** Keybr
+* **Duration:** 1 Hour
+* **Key Takeaway:** Logged a massive focused touch-typing session to build muscle memory and improve WPM.
 
 ---
 
 ### 🗓️ Dates: March 23 - March 26, 2026
 
-* **Status:** Paused learning to complete the final leg of my historical temple trip (Tirupati) and recover from the travel.
+* **Status:** ⏸️ Travel & Recovery
+* **Note:** Paused learning to complete the final leg of my historical temple trip (Tirupati) and recover from the travel.
 
 ---
 
@@ -152,34 +161,37 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 **⌨️ Skill Practice**
 * **Focus:** Typing Speed & Accuracy
-* **Resource:** keybr.com
-* **Key Takeaway:** Squeezed in a 20-minute practice session while traveling to maintain muscle memory and consistency.
+* **Resource:** Keybr
+* **Duration:** 20 Minutes
+* **Key Takeaway:** Squeezed in a practice session while traveling to maintain muscle memory and consistency.
 
 ---
 
 ### 🗓️ Date: March 21, 2026
 
-**📚 Core Learning**
+**📊 Core Learning: Power BI**
 * **Topic:** DAX in Power BI
 * **Resource:** Practice
 * **Key Takeaway:** Applied logical functions (`AND`/`&&` and `OR`/`||`) to evaluate multiple conditions and build complex data filters.
 
 **⌨️ Skill Practice**
 * **Focus:** Typing Speed & Accuracy
-* **Resource:** keybr.com
-* **Key Takeaway:** Logged a 30-minute focused touch-typing session to build muscle memory and improve WPM (words per minute).
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Logged a focused touch-typing session to build muscle memory and improve WPM.
 
 ---
 
 ### 🗓️ Dates: March 17 - March 20, 2026
 
-* **Status:** Paused learning for a few days to attend a family function and for historical temple travel (Arunachalam). Back at it today!
+* **Status:** ⏸️ Travel & Events
+* **Note:** Paused learning for a few days to attend a family function and for historical temple travel (Arunachalam). Back at it today!
 
 ---
 
 ### 🗓️ Date: March 16, 2026
 
-**📚 Core Learning**
+**📊 Core Learning: Power BI**
 * **Topic:** DAX in Power BI
 * **Resource:** YouTube
 * **Key Takeaway:** Learned the difference between implicit and explicit DAX measures. Implicit measures are auto-generated by dragging and dropping fields, while explicit measures are custom-written formulas that offer better control and reusability.
@@ -188,8 +200,8 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ### 🗓️ Date: March 15, 2026
 
-**📚 Core Learning**
-* **Topic:** GitHub Version Control & Repository Management
+**🐙 Core Learning: GitHub**
+* **Topic:** Version Control & Repository Management
 * **Resource:** Hands-on troubleshooting
 * **Key Takeaway:** Successfully set up local Git directories, pushed ERD diagrams, and learned how to format professional README files.
 
