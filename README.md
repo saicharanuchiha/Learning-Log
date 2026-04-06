@@ -4,6 +4,21 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 6, 2026
+
+**🐍 Core Learning: Python**
+* **Topic:** Dictionaries & Data Control Flow
+* **Resource:** Project Practice (Secret Auction CLI)
+* **Key Takeaway:** Mastered Python dictionaries for dynamic key-value storage. Built a custom algorithm to iterate through dictionary keys to calculate maximum values, and successfully applied `if/elif` control flow alongside `while` loops to manage program state and continuous user input.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Logged a focused touch-typing session to maintain daily consistency, build muscle memory, and improve keystroke efficiency.
+
+---
+
 ### 🗓️ Date: April 5, 2026
 
 **🐍 Core Learning: Python**
