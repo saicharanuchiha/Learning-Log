@@ -4,6 +4,31 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 9, 2026
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 40 Minutes
+* **Key Takeaway:** Maintained daily consistency and built muscle memory with a focused touch-typing session, keeping momentum alive while stepping away from complex Python logic.
+
+---
+
+### 🗓️ Date: April 8, 2026
+
+**🐍 Core Learning: Python**
+* **Topic:** Functions with Outputs & First-Class Functions
+* **Resource:** Project Practice (Calculator CLI)
+* **Key Takeaway:** Implemented First-Class Functions by storing mathematical operations within a dictionary for dynamic execution. Utilized recursive function calls to cleanly reset application state and managed complex variable state within a `while` loop to allow for continuous, chained calculations. 
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 45 Minutes
+* **Key Takeaway:** Logged an extended focused touch-typing session to build muscle memory, increase overall WPM, and maintain daily consistency.
+
+---
+
 ### 🗓️ Date: April 7, 2026
 
 **⌨️ Skill Practice**
