@@ -4,6 +4,31 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 11, 2026
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Maintained daily consistency and preserved muscle memory on a busy day, prioritizing habit building even when a full study session wasn't possible.
+
+---
+
+### 🗓️ Date: April 10, 2026
+
+**🐍 Core Learning: Python**
+* **Topic:** Capstone Project - Fundamentals Consolidation
+* **Resource:** Project Practice (Blackjack CLI)
+* **Key Takeaway:** Successfully synthesized all core Python fundamentals (lists, complex conditionals, `while` loops, and functions with outputs) into a cohesive application. Engineered dynamic scoring algorithms to handle mutating card values (Aces) and managed complex, asynchronous game states between a user and a computer dealer.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 20 Minutes
+* **Key Takeaway:** Squeezed in a quick touch-typing session to maintain daily consistency and keep muscle memory sharp after a heavy, logic-intensive coding sprint.
+
+---
+
 ### 🗓️ Date: April 9, 2026
 
 **⌨️ Skill Practice**
