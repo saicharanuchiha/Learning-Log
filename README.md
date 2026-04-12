@@ -4,6 +4,16 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 12, 2026
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 15 Minutes
+* **Key Takeaway:** Honored a scheduled rest day to recover from recent complex Python projects, but squeezed in a quick touch-typing session to protect the daily habit and keep muscle memory active.
+
+---
+
 ### 🗓️ Date: April 11, 2026
 
 **⌨️ Skill Practice**
