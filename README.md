@@ -4,6 +4,21 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 13, 2026
+
+**🐍 Core Learning: Python**
+* **Topic:** Variable Scope & Global Constants
+* **Resource:** Project Practice (Number Guessing Game)
+* **Key Takeaway:** Mastered the distinction between local and global variable scope. Successfully modified variables across different functions by utilizing parameters and return values, and implemented Global Constants to manage configuration settings cleanly outside of the core logic functions.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Maintained daily consistency with a focused touch-typing session, keeping muscle memory sharp alongside the Python logic work.
+
+---
+
 ### 🗓️ Date: April 12, 2026
 
 **⌨️ Skill Practice**
