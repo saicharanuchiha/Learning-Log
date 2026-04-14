@@ -4,6 +4,21 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 14, 2026
+
+**🐍 Core Learning: Python**
+* **Topic:** List of Dictionaries & Logic Refactoring
+* **Resource:** Project Practice (Higher or Lower CLI)
+* **Key Takeaway:** Successfully manipulated a List of Dictionaries to extract and compare data points. Refactored a continuous `while` loop from a sequential update model into a conditional "King of the Hill" model, requiring precise control over variable swapping and state management.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Maintained daily consistency with a focused touch-typing session, keeping muscle memory sharp alongside complex Python logic work.
+
+---
+
 ### 🗓️ Date: April 13, 2026
 
 **🐍 Core Learning: Python**
