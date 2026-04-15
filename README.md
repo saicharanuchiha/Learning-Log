@@ -4,6 +4,21 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 15, 2026
+
+**📊 Core Learning: Power BI (DAX)**
+* **Topic:** Calculated Columns & Measures
+* **Resource:** Maintenance Revision
+* **Key Takeaway:** Executed a dedicated maintenance session to refresh DAX syntax, specifically reinforcing the structural differences and appropriate use cases between calculated columns (row context) and measures (filter context).
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Maintained daily consistency with a focused touch-typing session, preserving muscle memory and protecting the habit on a lighter study day.
+
+---
+
 ### 🗓️ Date: April 14, 2026
 
 **🐍 Core Learning: Python**
