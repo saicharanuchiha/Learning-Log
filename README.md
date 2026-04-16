@@ -4,6 +4,21 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 16, 2026
+
+**📊 Core Learning: Power BI (DAX)**
+* **Topic:** The CALCULATE Function & Table Relations
+* **Resource:** Maintenance Revision
+* **Key Takeaway:** Executed a maintenance session focusing on the `CALCULATE` function's ability to evaluate expressions in a modified filter context, and reinforced core concepts of data modeling and table relationships.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Maintained daily consistency with a focused touch-typing session, keeping the streak alive and preserving muscle memory on a lighter study day.
+
+---
+
 ### 🗓️ Date: April 15, 2026
 
 **📊 Core Learning: Power BI (DAX)**
