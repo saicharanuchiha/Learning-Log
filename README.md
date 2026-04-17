@@ -4,6 +4,21 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 17, 2026
+
+**🐍 Core Learning: Python**
+* **Topic:** Debugging & Execution Flow
+* **Resource:** Thonny / Past Projects (Up to Calculator)
+* **Key Takeaway:** Utilized the Thonny debugger's "step into" functionality to visualize Python's backend execution flow. Actively traced variable state mutations and function call stacks line-by-line to build deep structural confidence and solidify complex logic comprehension.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Maintained daily consistency with a focused touch-typing session, preserving muscle memory and protecting the habit alongside intensive code analysis.
+
+---
+
 ### 🗓️ Date: April 16, 2026
 
 **📊 Core Learning: Power BI (DAX)**
