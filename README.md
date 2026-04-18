@@ -4,6 +4,21 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 18, 2026
+
+**🐍 Core Learning: Python**
+* **Topic:** Core Fundamentals Revision
+* **Resource:** Self-Review
+* **Key Takeaway:** Executed a comprehensive review of foundational Python syntax, solidifying the mechanics of iteration (loops), control flow (`if` statements), dynamic text evaluation (f-strings), and core data structures (lists and dictionaries).
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 20 Minutes
+* **Key Takeaway:** Maintained daily consistency with a quick touch-typing session, keeping muscle memory sharp while dedicating the bulk of the mental bandwidth to Python logic review.
+
+---
+
 ### 🗓️ Date: April 17, 2026
 
 **🐍 Core Learning: Python**
