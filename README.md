@@ -4,6 +4,21 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 19, 2026
+
+**📊 Core Learning: Power BI**
+* **Topic:** Basics Revision & DAX Walkthrough
+* **Resource:** Self-Review / Maintenance
+* **Key Takeaway:** Executed a comprehensive walkthrough of foundational Power BI mechanics and core DAX syntax. This maintenance session reinforced concepts around data modeling, measure creation, and filter context to keep analytics skills sharp.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 40 Minutes
+* **Key Takeaway:** Pushed through an extended 40-minute touch-typing session, aggressively building muscle memory and maintaining the daily discipline required for fast, accurate coding.
+
+---
+
 ### 🗓️ Date: April 18, 2026
 
 **🐍 Core Learning: Python**
