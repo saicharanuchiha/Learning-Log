@@ -4,6 +4,21 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 20, 2026
+
+**📊 Core Learning: Power BI (DAX)**
+* **Topic:** Advanced DAX Context & Time Intelligence
+* **Resource:** Course Assignment / Practice Exercises
+* **Key Takeaway:** Successfully executed a comprehensive DAX evaluation. Engineered calculated columns using logical condition mapping and text extraction. Mastered advanced measure creation utilizing `CALCULATE` to modify filter context, `ALL` to calculate grand totals for percentages, and Time Intelligence functions to build rolling 90-day metrics.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Maintained daily consistency with a focused touch-typing session, preserving muscle memory and protecting the daily habit even after an intensive, heavy-logic DAX workload.
+
+---
+
 ### 🗓️ Date: April 19, 2026
 
 **📊 Core Learning: Power BI**
