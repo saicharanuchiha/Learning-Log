@@ -4,6 +4,21 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 21, 2026
+
+**🐍 Core Learning: Python**
+* **Topic:** State Management & Modular Architecture
+* **Resource:** Project Practice (Virtual Coffee Machine)
+* **Key Takeaway:** Engineered a continuous CLI application that manages and mutates global state variables (inventory and profit). Successfully navigated deeply nested dictionaries and utilized global keywords to maintain variable scope across multiple single-purpose functions.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Completed daily typing practice prior to coding, protecting the habit and warming up muscle memory for an intensive Python architecture session.
+
+---
+
 ### 🗓️ Date: April 20, 2026
 
 **📊 Core Learning: Power BI (DAX)**
