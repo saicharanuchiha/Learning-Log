@@ -4,6 +4,19 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 22, 2026
+
+**📊 Core Learning: Power BI**
+* **Topic:** Report View, Visualizations, Filtering, and UI Troubleshooting
+* **Resource:** Course Chapters 1-12 & Hands-on Troubleshooting
+* **Key Takeaway:** Built a foundation of interactive visuals including matrices, date slicers, KPIs, and maps. Successfully navigated modern Power BI interface updates, repaired broken Power Query file paths, and managed background auto-date hierarchy settings.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Maintained daily consistency to continue building muscle memory and typing efficiency.
+
 ### 🗓️ Date: April 21, 2026
 
 **🐍 Core Learning: Python**
