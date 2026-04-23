@@ -4,6 +4,21 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 23, 2026
+
+**📊 Core Learning: Power BI**
+* **Topic:** Advanced Visualizations, Report Interactions, and Dashboard Assembly
+* **Resource:** Course Chapters 13-28 & Section Homework
+* **Key Takeaway:** Mastered advanced report features including bookmarks, drillthrough filters, and what-if parameters. Successfully built a comprehensive "Customer Detail" dashboard from scratch, integrating multiple interactive visual types and conditional formatting.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Maintained daily consistency to continue building muscle memory and typing efficiency.
+
+---
+
 ### 🗓️ Date: April 22, 2026
 
 **📊 Core Learning: Power BI**
@@ -16,6 +31,8 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 * **Resource:** Keybr
 * **Duration:** 30 Minutes
 * **Key Takeaway:** Maintained daily consistency to continue building muscle memory and typing efficiency.
+
+---
 
 ### 🗓️ Date: April 21, 2026
 
