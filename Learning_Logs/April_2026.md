@@ -4,6 +4,21 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 24, 2026
+
+**🔋 Core Learning: Active Recovery**
+* **Topic:** Focus Management & Burnout Prevention
+* **Resource:** Offline "Me Time"
+* **Key Takeaway:** Recognized a drop in concentration and strategically stepped away from the PC to rest, ensuring better retention and energy for tomorrow's technical modules.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Pushed through the mental fatigue to get the daily reps in, maintaining the habit and keeping the commit streak alive.
+
+---
+
 ### 🗓️ Date: April 23, 2026
 
 **📊 Core Learning: Power BI**
