@@ -4,6 +4,21 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 25, 2026
+
+**🏠 Core Learning: Work-Life Balance**
+* **Topic:** Unplanned Offline Day
+* **Resource:** Family & Visiting Relatives
+* **Key Takeaway:** Paused the technical study plan to host visiting cousins. Embracing the reality that a 6-month study schedule requires flexibility when life and family events happen.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Carved out time despite a loud and busy house to get the daily typing reps in, maintaining discipline and keeping the GitHub streak alive.
+
+---
+
 ### 🗓️ Date: April 24, 2026
 
 **🔋 Core Learning: Active Recovery**
