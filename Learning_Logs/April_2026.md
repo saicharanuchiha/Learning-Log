@@ -4,6 +4,15 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 26, 2026
+
+**🎬 Core Learning: Active Recovery & Exploration**
+* **Topic:** System Reset 
+* **Resource:** Ramoji Film City
+* **Key Takeaway:** Took a full day off from the screens to walk and explore. A necessary physical and mental break to completely recharge before the next technical study block.
+
+---
+
 ### 🗓️ Date: April 25, 2026
 
 **🏠 Core Learning: Work-Life Balance**
