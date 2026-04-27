@@ -4,6 +4,21 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 27, 2026
+
+**🐍 Core Learning: Python**
+* **Topic:** Object-Oriented Programming (OOP)
+* **Resource:** Video Lecture
+* **Key Takeaway:** Began tackling foundational OOP concepts. Successfully adapted to a highly distracting environment with kids in the house, proving the ability to maintain focus and push forward with complex logic under less-than-ideal conditions.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Locked in the daily reps, keeping the habit strong and the GitHub commit streak alive despite the household chaos.
+
+---
+
 ### 🗓️ Date: April 26, 2026
 
 **🎬 Core Learning: Active Recovery & Exploration**
