@@ -4,6 +4,51 @@ A daily log tracking my progress, concepts mastered, and technical notes across 
 
 ---
 
+### 🗓️ Date: April 30, 2026
+
+**☕ Core Learning: Python**
+* **Topic:** Object-Oriented Programming (OOP) - Coffee Machine Project
+* **Resource:** Hands-on Project Completion
+* **Key Takeaway:** Successfully finalized the OOP Coffee Machine. Wrote a clean, modular `main.py` controller script that handles object instantiation and user interaction flow without relying on global variables or complex nested logic. 
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 20 Minutes
+* **Key Takeaway:** Maintained daily consistency to continue building muscle memory and typing efficiency.
+
+---
+
+### 🗓️ Date: April 29, 2026
+
+**🏠 Core Learning: Work-Life Balance**
+* **Topic:** Unplanned Offline Day
+* **Resource:** Family Time
+* **Key Takeaway:** Continued focus on family time. Accepted the break in the GitHub commit streak as a reality of a multi-month transition plan, prioritizing mental bandwidth over forcing a commit.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Kept the keyboard streak alive for the second day in a row despite technical downtime.
+
+---
+
+### 🗓️ Date: April 28, 2026
+
+**🏠 Core Learning: Work-Life Balance**
+* **Topic:** Unplanned Offline Day
+* **Resource:** Family Time
+* **Key Takeaway:** Paused technical modules due to a chaotic house with kids. Practiced adapting to schedule disruptions without entirely dropping the daily routine.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 30 Minutes
+* **Key Takeaway:** Pushed through the distractions to maintain the daily typing habit.
+
+---
+
 ### 🗓️ Date: April 27, 2026
 
 **🐍 Core Learning: Python**
