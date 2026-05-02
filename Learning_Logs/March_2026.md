@@ -1,6 +1,4 @@
-# 📈 Data Analytics Learning Log
-
-A daily log tracking my progress, concepts mastered, and technical notes across SQL, Power BI, and Python.
+# 📝 March 2026 Learning Log
 
 ---
 
