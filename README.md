@@ -12,9 +12,13 @@ This repository serves as the central hub for my daily learning logs, technical 
 ### 📌 Repository Navigation
 I document my daily progress, bugs I have fixed, and core takeaways. You can explore my chronological learning logs here:
 
-  🔸 [March 2026 Archive](./March/)
-  
-  🔸 [April 2026 Logs](./Learning_Logs/)
+🔸 [March 2026 Archive](./March/)
+
+🔸 [April 2026 Logs](./Learning_Logs/April_2026.md)
+
+🔸 [May 2026 Logs](./Learning_Logs/May_2026.md)
+
+
 
 ### ⚡ About Me
 I am passionate about building highly optimized, high-performance workspaces to maximize productivity. When I'm not untangling Power Query file paths or writing SQL queries, you can usually find me catching up on my favorite anime. 
