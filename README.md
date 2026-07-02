@@ -20,6 +20,7 @@ I document my daily progress, bugs I have fixed, and core takeaways. You can exp
 
 🔸 [June 2026 Logs](./Learning_Logs/June_2026.md)
 
+🔸 [July 2026 Logs](./Learning_Logs/July_2026.md)
 
 
 ### ⚡ About Me
