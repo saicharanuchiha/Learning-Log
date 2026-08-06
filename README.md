@@ -22,6 +22,8 @@ I document my daily progress, bugs I have fixed, and core takeaways. You can exp
 
 🔸 [July 2026 Logs](./Learning_Logs/July_2026.md)
 
+🔸 [August 2026 Logs](./path_to_august.md)
+
 
 ### ⚡ About Me
 I am passionate about building highly optimized, high-performance workspaces to maximize productivity. When I'm not untangling Power Query file paths or writing SQL queries, you can usually find me catching up on my favorite anime. 
