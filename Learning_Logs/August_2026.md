@@ -1,4 +1,6 @@
-August 2026 log
+# 📝 August 2026 Learning Log
+
+---
 
 ### 🗓️ Date: August 06, 2026
 
