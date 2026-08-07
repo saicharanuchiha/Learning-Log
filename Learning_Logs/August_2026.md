@@ -2,6 +2,21 @@
 
 ---
 
+### 🗓️ Date: August 07, 2026
+
+**🖼️ Core Learning: Python & Tkinter**
+* **Topic:** Tkinter GUI Basics & Flexible Arguments (`*args` / `**kwargs`)
+* **Resource:** Python Study Curriculum (GUI Development)
+* **Key Takeaway:** Started desktop GUI development with Tkinter while mastering Python's dynamic argument handling. Learned how `*args` packs positional inputs into tuples and `**kwargs` packs keyword options into dictionaries, enabling flexible widget initialization and default optional parameters.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained daily touch-typing execution to keep execution speed sharp while transitioning into GUI projects.
+
+---
+
 ### 🗓️ Date: August 06, 2026
 
 **🔋 Core Learning: Baseline Maintenance & Reset**
