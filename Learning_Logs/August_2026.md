@@ -2,6 +2,51 @@
 
 ---
 
+### 🗓️ Date: August 10, 2026
+
+**🖼️ Core Learning: Python & Tkinter**
+* **Topic:** Tkinter Miles to Kilometers Converter (GUI Layouts & Event Handling)
+* **Resource:** Python Study Curriculum (Tkinter GUI Project)
+* **Key Takeaway:** Built a functional desktop unit converter app using Tkinter. Practiced widget layout organization using grid management, bound button click events to mathematical calculation logic, dynamically retrieved values from `Entry` widgets, and updated text output `Label` widgets in real time.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Kept the daily touch-typing anchor solid while building interactive GUI tools.
+
+---
+
+### 🗓️ Date: August 09, 2026
+
+**🔋 Core Learning: Decompression**
+* **Topic:** Weekend Rest & Recovery
+* **Resource:** Offline Time
+* **Key Takeaway:** Took an intentional rest day over the weekend to recharge focus and sustain mental bandwidth for upcoming coding modules.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Executed standard touch-typing session to keep muscle memory active.
+
+---
+
+### 🗓️ Date: August 08, 2026
+
+**🔋 Core Learning: Decompression**
+* **Topic:** Rest & Reset
+* **Resource:** Offline Time
+* **Key Takeaway:** Prioritized physical and mental downtime to maintain long-term study consistency and prevent burnout.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained baseline typing habit continuity.
+
+---
+
 ### 🗓️ Date: August 07, 2026
 
 **🖼️ Core Learning: Python & Tkinter**
