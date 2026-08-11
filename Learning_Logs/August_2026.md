@@ -2,6 +2,21 @@
 
 ---
 
+### 🗓️ Date: August 11, 2026
+
+**🖼️ Core Learning: Python & Tkinter**
+* **Topic:** Pomodoro Application, Canvas Layering & Non-Blocking Loops (`window.after()`)
+* **Resource:** Python Study Curriculum (Tkinter GUI Project)
+* **Key Takeaway:** Built a full-featured Pomodoro app with Tkinter. Utilized the `Canvas` widget for visual element layering, handled dynamic time string formatting (`MM:SS`), managed application state across work/short-break/long-break cycles, and implemented non-blocking countdown loops via `window.after()`.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained touch-typing execution baseline while engineering state-based GUI application logic.
+
+---
+
 ### 🗓️ Date: August 10, 2026
 
 **🖼️ Core Learning: Python & Tkinter**
