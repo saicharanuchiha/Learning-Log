@@ -2,6 +2,21 @@
 
 ---
 
+### 🗓️ Date: August 12, 2026
+
+**🐍 Core Learning: Python, Tkinter & Exception Handling**
+* **Topic:** Password Manager GUI, File I/O, & Python Exception Handling (`try`/`except`)
+* **Resource:** Python Study Curriculum (Password Manager & Error Handling)
+* **Key Takeaway:** Built a desktop Password Manager GUI using Tkinter and `messagebox` popups for input validation, incorporating random string generation for password creation and local file I/O for credential storage. Applied `try`/`except`/`else` exception handling to refactor the NATO Alphabet project, gracefully catching `KeyError` exceptions when handling non-alphabet inputs without crashing the runtime.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained daily touch-typing execution anchor alongside building file-handling GUI tools and implementing error-handling logic.
+
+---
+
 ### 🗓️ Date: August 11, 2026
 
 **🖼️ Core Learning: Python & Tkinter**
