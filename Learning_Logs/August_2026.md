@@ -2,6 +2,36 @@
 
 ---
 
+### 🗓️ Date: August 14, 2026
+
+**🎴 Core Learning: Python, Tkinter & Pandas Capstone**
+* **Topic:** Flash Card Desktop GUI (Asynchronous Timers & Dataset Persistence)
+* **Resource:** Python Study Curriculum (Flash Card Capstone Project)
+* **Key Takeaway:** Built a complete language learning Flash Card GUI using Tkinter `Canvas` and Pandas. Implemented asynchronous card flipping physics using `window.after()` and `window.after_cancel()`, automated progress saving by exporting unlearned word records to `words_to_learn.csv`, and integrated `try/except FileNotFoundError` fallback handling. Structured project issues and milestones across a GitHub Kanban board.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained touch-typing consistency alongside building multi-component GUI applications and writing project documentation.
+
+---
+
+### 🗓️ Date: August 13, 2026
+
+**🔐 Core Learning: Python, Tkinter & JSON Storage**
+* **Topic:** Password Manager GUI, JSON Serialization & Exception Handling (`try`/`except`/`else`/`finally`)
+* **Resource:** Python Study Curriculum (Password Manager Project)
+* **Key Takeaway:** Refactored the Password Manager desktop application to serialize credential records using structured JSON (`json.dump()`, `json.load()`, `dict.update()`). Built a fast key-lookup search feature (`find_password()`) and implemented comprehensive exception handling to manage missing file states gracefully and reliably clear UI fields via `finally` blocks.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained daily touch-typing execution baseline alongside implementing data persistence and error-handling workflows.
+
+---
+
 ### 🗓️ Date: August 12, 2026
 
 **🐍 Core Learning: Python, Tkinter & Exception Handling**
