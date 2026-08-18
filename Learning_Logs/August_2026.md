@@ -2,6 +2,66 @@
 
 ---
 
+### 🗓️ Date: August 18, 2026
+
+**🌐 Core Learning: Python, REST APIs & Automation**
+* **Topic:** Live Endpoint Ingestion (`requests`), JSON Parsing & Alert Scripting (`smtplib`)
+* **Resource:** Python Study Curriculum (Kanye Quotes & ISS Overhead Notifier)
+* **Key Takeaway:** Integrated public REST APIs into Python applications using the `requests` library and validated HTTP status codes with `raise_for_status()`. Engineered an automated ISS tracking notifier calculating coordinate boundaries against sunrise/sunset endpoint data to trigger automated email dispatches via `smtplib`.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained daily touch-typing execution baseline alongside backend API and notification scripting.
+
+---
+
+### 🗓️ Date: August 17, 2026
+
+**🌐 Core Learning: Python & API Architecture**
+* **Topic:** Introduction to REST APIs, HTTP Status Codes & Endpoint Parameters
+* **Resource:** Python Study Curriculum (API Fundamentals)
+* **Key Takeaway:** Mastered core web API communication concepts, including client-server request/response workflows, HTTP status code ranges (2XX, 4XX, 5XX), JSON payload extraction, and formatting query parameters for dynamic data filtering.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Reinforced smooth keystroke rhythm and muscle memory during morning practice.
+
+---
+
+### 🗓️ Date: August 16, 2026
+
+**🧘 Core Learning: Scheduled Rest & Recovery**
+* **Topic:** Weekend Recovery & Mental Reset
+* **Resource:** N/A (Rest Day)
+* **Key Takeaway:** Took a planned Sunday rest day to recharge mental bandwidth and prepare for the upcoming API integration and backend automation modules.
+
+**⌨️ Skill Practice**
+* **Focus:** Rest & Recovery
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Rested hands and mind to maintain long-term learning consistency.
+
+---
+
+### 🗓️ Date: August 15, 2026
+
+**🇮🇳 Core Learning: Holiday (Independence Day)**
+* **Topic:** National Holiday Break
+* **Resource:** N/A (Holiday)
+* **Key Takeaway:** Observed Independence Day and took a deliberate study break to celebrate, step away from screens, and reset for the week ahead.
+
+**⌨️ Skill Practice**
+* **Focus:** Holiday Rest
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Full holiday rest day taken.
+
+---
+
 ### 🗓️ Date: August 14, 2026
 
 **🎴 Core Learning: Python, Tkinter & Pandas Capstone**
