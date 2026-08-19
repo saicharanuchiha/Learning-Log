@@ -2,6 +2,21 @@
 
 ---
 
+### 🗓️ Date: August 19, 2026
+
+**🧠 Core Learning: Python, Tkinter, OOP & API Architecture**
+* **Topic:** Live REST API Ingestion (`requests`), Type Hinting, HTML Entity Decoding (`html.unescape`) & UI Feedback States[cite: 3, 4, 5]
+* **Resource:** Python Study Curriculum (Quizzler Trivia Capstone)
+* **Key Takeaway:** Built a full-featured desktop trivia application integrating the Open Trivia DB API with a modular OOP architecture[cite: 4, 5]. Enforced type declarations in class initializers (`quiz_brain: QuizBrain`)[cite: 4], decoded escaped HTML entities using `html.unescape()`[cite: 3], and implemented timed UI feedback states (green/red background flashes via `window.after()`) while managing button states dynamically at quiz completion[cite: 4].
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained daily touch-typing execution baseline alongside OOP interface design and API data consumption.
+
+---
+
 ### 🗓️ Date: August 18, 2026
 
 **🌐 Core Learning: Python, REST APIs & Automation**
