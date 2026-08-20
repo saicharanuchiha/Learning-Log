@@ -2,6 +2,21 @@
 
 ---
 
+### 🗓️ Date: August 20, 2026
+
+**🌧️ Core Learning: Python, Weather APIs & Twilio SMS Automation**
+* **Topic:** Predictive JSON Slicing, OpenWeatherMap Condition Codes, Twilio Client & Environment Variables (`os.environ`)
+* **Resource:** Python Study Curriculum (Rain Alert Automation Capstone)
+* **Key Takeaway:** Built an automated weather monitoring script using the OpenWeatherMap and Twilio REST APIs. Parsed nested forecast dictionaries, applied list slicing to monitor the next 12 hours of data, and evaluated meteorological condition IDs (`id < 700`) to trigger automated SMS notifications. Secured API keys and authentication tokens via environment variables to prevent credential leakage in source control.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained daily touch-typing execution baseline alongside API payload slicing and backend messaging services.
+
+---
+
 ### 🗓️ Date: August 19, 2026
 
 **🧠 Core Learning: Python, Tkinter, OOP & API Architecture**
