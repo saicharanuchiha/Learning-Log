@@ -2,6 +2,66 @@
 
 ---
 
+### 🗓️ Date: August 24, 2026
+
+**💾 Core Learning: Workspace & System Maintenance**
+* **Topic:** Local File Organization & Hard Drive Storage Management
+* **Resource:** System Administration & Local Storage
+* **Key Takeaway:** Spent the day auditing local storage, archiving assets, and reorganizing development directories to maintain a clean, efficient workspace for upcoming projects.
+
+**⌨️ Skill Practice**
+* **Focus:** Maintenance Break
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Paused typing practice to focus on local storage and directory reorganization.
+
+---
+
+### 🗓️ Date: August 23, 2026
+
+**🧘 Core Learning: Scheduled Rest & Recovery**
+* **Topic:** Weekend Recovery & Mental Reset
+* **Resource:** N/A (Rest Day)
+* **Key Takeaway:** Took a scheduled Sunday rest day to recharge mental bandwidth and prepare for the week ahead.
+
+**⌨️ Skill Practice**
+* **Focus:** Rest & Recovery
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Rested hands and mind to maintain long-term learning consistency.
+
+---
+
+### 🗓️ Date: August 22, 2026
+
+**🧘 Core Learning: Scheduled Rest & Recovery**
+* **Topic:** Weekend Recovery & Mental Reset
+* **Resource:** N/A (Rest Day)
+* **Key Takeaway:** Took a planned Saturday rest day to step away from screens and reset mental focus.
+
+**⌨️ Skill Practice**
+* **Focus:** Rest & Recovery
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Weekend rest day taken.
+
+---
+
+### 🗓️ Date: August 21, 2026
+
+**🌧️ Core Learning: Python, Weather APIs & Twilio Automation**
+* **Topic:** Granular Payload Slicing (`cnt: 4`), Weather Condition Code Parsing & Twilio SMS/WhatsApp Messaging
+* **Resource:** Python Study Curriculum (Rain Alert Automation Project)
+* **Key Takeaway:** Built an automated weather monitoring script using the OpenWeatherMap and Twilio REST APIs. Optimized network payload transfer by limiting query parameters to the next 12 hours (`cnt: 4`), parsed nested JSON condition codes (`id < 700`), and triggered automated alert dispatches through Twilio client instances while securing all keys and phone numbers via environment variables (`os.environ`).
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained daily touch-typing execution baseline alongside API authentication workflows and external messaging services.
+
+---
+
 ### 🗓️ Date: August 20, 2026
 
 **🌧️ Core Learning: Python, Weather APIs & Twilio SMS Automation**
