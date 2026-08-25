@@ -2,6 +2,21 @@
 
 ---
 
+### 🗓️ Date: August 25, 2026
+
+**📈 Core Learning: Python, Financial APIs & Multi-Service Integration**
+* **Topic:** Alpha Vantage Time Series Ingestion, Day-over-Day Delta Calculation, NewsAPI Ingestion & Twilio Dispatch
+* **Resource:** Python Study Curriculum (Stock Trading News Alert Project)
+* **Key Takeaway:** Built a multi-API financial notification service linking stock time-series data with news sentiment feeds. Extracted dictionary items via list comprehension to compute percentage changes across consecutive trading days, evaluated a 5% volatility threshold, sliced top news articles from NewsAPI payloads, and formatted automated multi-message alerts dispatched through the Twilio client.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained daily touch-typing execution baseline alongside multi-endpoint data ingestion and conditional notification pipelines.
+
+---
+
 ### 🗓️ Date: August 24, 2026
 
 **💾 Core Learning: Workspace & System Maintenance**
