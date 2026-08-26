@@ -2,6 +2,21 @@
 
 ---
 
+### 🗓️ Date: August 26, 2026
+
+**🏋️ Core Learning: Python, REST APIs, HTTP Methods & Header Authentication**
+* **Topic:** Custom HTTP Headers (`X-USER-TOKEN`), Advanced HTTP Methods (`POST`/`PUT`/`DELETE`), `datetime.strftime()`, and `json.dumps()` Payload Serialization
+* **Resource:** Python Study Curriculum (Pixela Habit Tracking Project)
+* **Key Takeaway:** Built a quantitative workout tracker interfacing with the Pixela API. Authenticated requests using custom HTTP header tokens instead of query parameters, formatted timestamp strings dynamically using `datetime.strftime("%Y%m%d")`, and handled structured metadata logging by serializing nested dictionaries with `json.dumps()` for `optionalData` ingestion.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained daily touch-typing execution baseline alongside HTTP request header configuration and API data serialization.
+
+---
+
 ### 🗓️ Date: August 25, 2026
 
 **📈 Core Learning: Python, Financial APIs & Multi-Service Integration**
