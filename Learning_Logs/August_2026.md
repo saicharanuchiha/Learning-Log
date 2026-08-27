@@ -2,6 +2,21 @@
 
 ---
 
+### 🗓️ Date: August 27, 2026
+
+**🗣️ Core Learning: Communication Skills & Consumer Advocacy**
+* **Topic:** Foundational Communication Principles & Consumer Dialogue (Modules 1 & 2: Active Listening, Direct vs. Indirect Messaging, and Corporate Communication Strategy)
+* **Resource:** The Complete Communication Skills Master Class for Life (TJ Walker / Udemy)
+* **Key Takeaway:** Completed the first two modules focusing on foundational communication mindsets and consumer-facing communication. Learned practical techniques for active listening, separating real vs. perceived communication barriers, structuring direct and indirect messages for clarity, and applying assertive communication frameworks to advocate effectively and resolve issues when engaging with companies and organizations.
+
+**⌨️ Skill Practice**
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained daily touch-typing practice consistency alongside communication studies.
+
+---
+
 ### 🗓️ Date: August 26, 2026
 
 **🏋️ Core Learning: Python, REST APIs, HTTP Methods & Header Authentication**
