@@ -2,6 +2,74 @@
 
 ---
 
+### 🗓️ Date: August 31, 2026
+
+**🧠 Core Learning: Mindset, Career Strategy & Reset**
+
+* **Topic:** Long-Term Career Alignment, Managing Prep Fatigue & Mindset Reset
+* **Resource:** Personal Reflection & Strategic Calibration
+* **Key Takeaway:** Processed study burnout, timeline pressures, and long-term career goals. Realigned focus toward sustainable daily execution over emotional highs, recognizing that consistent technical reps form the foundation for both professional stability and future creative projects.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Mental Clarity & Strategy Reset
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Paused typing practice to focus on mental reset and establishing momentum for upcoming technical modules.
+
+---
+
+### 🗓️ Date: August 30, 2026
+
+**🧘 Core Learning: Scheduled Rest & Recovery**
+
+* **Topic:** Weekend Recovery & Mental Bandwidth Reset
+* **Resource:** N/A (Rest Day)
+* **Key Takeaway:** Took a Sunday rest day to recharge mental energy and prepare for the upcoming week.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Rest & Recovery
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Scheduled weekend rest day.
+
+---
+
+### 🗓️ Date: August 29, 2026
+
+**🧘 Core Learning: Scheduled Rest & Recovery**
+
+* **Topic:** Weekend Recovery & Mental Reset
+* **Resource:** N/A (Rest Day)
+* **Key Takeaway:** Took a planned Saturday rest day to step away from screens and allow cognitive fatigue to reset.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Rest & Recovery
+* **Resource:** N/A
+* **Duration:** 0 Minutes
+* **Key Takeaway:** Scheduled weekend rest day.
+
+---
+
+### 🗓️ Date: August 28, 2026
+
+**📊 Core Learning: Python & Google Sheets API Integration**
+
+* **Topic:** Automated Workout Tracking via Google Sheets (Sheety & Google Sheets API)
+* **Resource:** Python Study Curriculum (Workout Tracking / Google Sheets Automation Project)
+* **Key Takeaway:** Built an automated workout logging pipeline connecting Python to Google Sheets via API. Formatted structured data payloads to append daily exercise metrics directly into cloud spreadsheets using authenticated REST endpoints.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained daily touch-typing execution baseline alongside spreadsheet API integration.
+
+---
+
 ### 🗓️ Date: August 27, 2026
 
 **🗣️ Core Learning: Communication Skills & Consumer Advocacy**
