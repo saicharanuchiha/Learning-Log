@@ -2,6 +2,23 @@
 
 ---
 
+### 🗓️ Date: September 04, 2026
+
+**🎨 Core Learning: CSS3 & Box Model Architecture**
+
+* **Topic:** CSS Box Model (Margins, Padding, Borders), Typography & Font Properties, Color Models (RGB, Hex, Named), DevTools CSS Inspection & Layout Debugging (Pesticide)
+* **Resource:** Web Development Bootcamp
+* **Key Takeaway:** Mastered foundational CSS layout mechanics centered on the Box Model, configuring content dimensions, interior padding, structural borders, and exterior margin spacing. Explored color systems (RGB, Hex, named values), customized typography using web fonts and CSS font properties, used Chrome DevTools and Pesticide to inspect layout box calculations, and integrated these concepts to build and center a responsive motivational poster webpage.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained daily touch-typing execution baseline alongside CSS property-value drafting and layout debugging.
+
+---
+
 ### 🗓️ Date: September 03, 2026
 
 **🤝 Core Learning: Peer Support & Perspective Calibration**
