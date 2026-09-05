@@ -2,6 +2,29 @@
 
 ---
 
+### 🗓️ Date: September 05, 2026
+
+**🎨 Core Learning: CSS & Web Styling**
+
+* **Topic:** CSS Layout Mechanics, Selectors & Visual Design
+* **Resource:** Web Development Bootcamp (CSS Styling Modules)
+* **Key Takeaway:** Practiced fundamental CSS rules and styling mechanisms to manipulate page structure, refine element alignment, and reinforce clean styling architecture for web applications.
+
+**🗣️ Core Learning: Communication Skills**
+
+* **Topic:** Quick Communication Tactics, Message Framing & Delivery
+* **Resource:** The Complete Communication Skills Master Class for Life
+* **Key Takeaway:** Reviewed actionable, high-impact communication strategies centered on verbal clarity, direct message framing, active listening, and reducing communicative friction in everyday interactions.
+
+**⌨️ Skill Practice**
+
+* **Focus:** Typing Speed & Accuracy
+* **Resource:** Keybr
+* **Duration:** 10 Minutes
+* **Key Takeaway:** Maintained daily touch-typing rhythm and muscle memory alongside frontend styling drills and communication review.
+
+---
+
 ### 🗓️ Date: September 04, 2026
 
 **🎨 Core Learning: CSS3 & Box Model Architecture**
